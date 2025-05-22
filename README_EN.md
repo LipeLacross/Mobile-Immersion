@@ -10,66 +10,24 @@ Food ordering app developed during Alura’s Mobile Immersion using Flutter. The
 
 # TechTaste
 
-Food delivery app developed during Alura’s Mobile Immersion, using Flutter to create a modern, responsive, and multiplatform experience. The project simulates a restaurant marketplace, allowing users to browse by category, view restaurants, add dishes to the cart, and checkout, with custom assets and an interface inspired by top market apps.
+Food delivery app developed during Alura’s Mobile Immersion, using Flutter to create a modern, responsive, and cross-platform experience. The project simulates a restaurant marketplace, allowing users to navigate by categories, view establishments, add dishes to the cart, and checkout, with custom assets and an interface inspired by leading apps in the market.
 
 ## 🔨 Project Features
 
 - Custom splash screen
 - Restaurant listing with ratings, distance, and categories
-- Filtering and browsing by dish categories (starters, mains, pasta, desserts, drinks)
+- Filtering and navigation by dish categories (starters, mains, pasta, desserts, drinks)
 - Detailed restaurant and dish views
-- Add dishes to cart with quantity control
+- Add dishes to the cart with quantity control
 - Simple checkout and modern UI
 - Responsive interface based on Material Design
 - Custom assets for banners, icons, and dish images
 
 ### Project Visual Example
 
+<div align="center"> <table> <tr> <td align="center" width="220"> <img src="https://github.com/user-attachments/assets/e77be6d2-c164-4782-a0a1-dc08ac5d946e" width="200" alt="Tela 1"/> </td> <td align="center" width="220"> <img src="https://github.com/user-attachments/assets/3e42d48c-ccef-42fa-aa0d-af71907e0842" width="200" alt="Tela 2"/> </td> <td align="center" width="220"> <img src="https://github.com/user-attachments/assets/73aa3266-af74-4427-888e-742164ecd892" width="200" alt="Tela 3"/> </td> </tr> <tr> <td align="center" width="220"> <img src="https://github.com/user-attachments/assets/7ee71d28-97eb-4c08-90f9-85688afe6c63" width="200" alt="Tela 4"/> </td> <td align="center" width="220"> <img src="https://github.com/user-attachments/assets/48971992-0be3-4b7a-a957-bb7dc1bed4e8" width="200" alt="Tela 5"/> </td> <td align="center" width="220"> <img src="https://github.com/user-attachments/assets/29e44c64-7b7e-4c35-893d-3ac5cd3577c0" width="200" alt="Tela 6"/> </td> </tr> <tr> <td align="center" width="220"> <img src="https://github.com/user-attachments/assets/83bf845a-af88-410b-856d-cda6c215fe8c" width="200" alt="Tela 7"/> </td> <td align="center" width="220"> <img src="https://github.com/user-attachments/assets/b15e5386-8c09-431d-afbb-4150b46694c1" width="200" alt="Tela 8"/> </td> <td align="center" width="220"> <img src="https://github.com/user-attachments/assets/af369f8a-f964-4fe3-8f44-8a5ed1f79046" width="200" alt="Tela 9"/> </td> </tr> </table> </div> <div align="left">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-- See the full prototype on [Figma](https://www.figma.com/design/5WKjBnTvAKTraWTRqsjK02/TechTaste-%7C-Imers%C3%A3o?node-id=7-47&p=f)
-
-
+</div>
 
 ## ✔️ Techniques and Technologies Used
 
@@ -170,6 +128,15 @@ To start the project locally, follow these steps:
 > **References and Guides**
 >
 > - [Official Alura Mobile Immersion Guide](https://grupoalura.notion.site/Imers-o-Mobile-Guia-de-Mergulho-1ba379bdd09b80e3ac18c8512f31530d?pvs=4)
-> - [Project Figma](https://www.figma.com/design/5WKjBnTvAKTraWTRqsjK02/TechTaste-%7C-Imers%C3%A3o?node-id=7-47&p=f)
+> - [Figma Project](https://www.figma.com/design/5WKjBnTvAKTraWTRqsjK02/TechTaste-%7C-Imers%C3%A3o?node-id=7-47&p=f)
 > - [Project IDX (Google Cloud IDE)](https://idx.google.com/)
 
+---
+
+This project was created for educational purposes during Alura’s Mobile Immersion, demonstrating scalable architecture, custom assets, and Flutter best practices[1].
+
+Citations:
+[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/55317053/5929c60f-b9be-42a6-81c0-22e12261296a/directory_listing.txt
+
+---
+Resposta do Perplexity: pplx.ai/share
